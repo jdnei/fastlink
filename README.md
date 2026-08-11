@@ -1,5 +1,7 @@
 # FastLink机场官方地址(2026年8月11日更新)
 fastlink机场官网地址</br>
+`只支持客户端使用`</br>
+最新地址：[a01.flaff9.cc](https://a01.flaff9.cc/auth/register?code=qTNi2gsJ)</br>
 官方地址：[a01.flaff9.cc](https://a01.flaff9.cc/auth/register?code=qTNi2gsJ)</br>
 ## 邀请码
 ```bash
