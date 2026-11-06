@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# FastLink机场官方地址(2026年11月5日更新)
+# FastLink机场官方地址(2026年11月6日更新)
 fastlink机场官网地址</br>
 `只支持客户端使用`</br>
 最新地址：[a01.flaff9.cc](https://to.iix.im/fast01)</br>
