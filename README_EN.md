@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# FastLink VPN Official Website (Updated November 18, 2026)
+# FastLink VPN Official Website (Updated November 19, 2026)
 
 FastLink VPN Official Website<br>
 `Only supports access through its dedicated client application`<br>
